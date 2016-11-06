@@ -2,8 +2,8 @@
 //  UserSwitcher.swift
 //  SubviewToFrontAnimation
 //
-//  Created by include tech. on 02/08/16.
-//  Copyright © 2016 include tech. All rights reserved.
+//  Created by Parag Dulam on 02/08/16.
+//  Copyright © 2016 Parag Dulam All rights reserved.
 //
 
 import UIKit
